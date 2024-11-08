@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m:mappedModels xmlns:m="http://www.ivoa.net/xml/vodml-binding/v0.9.1">
+<!-- ========================================
+ -->
+<model>
+<name>mango</name>
+<file>mango.vo-dml.xml</file>s
+    <java-package>org.ivoa.dm.proposal.mango</java-package>
+<xml-targetnamespace prefix="mango">http://ivoa.net/dm/mango/v1.0</xml-targetnamespace>
+    <rdb inheritance-strategy="single-table"
+         discriminatorColumnLength="64"/>
+</model>
+
+
+</m:mappedModels>

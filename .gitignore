@@ -57,3 +57,8 @@ pom.xml.tag
 
 trash/*
 exercise*
+/build/
+/.gradle/
+/.idea/
+/mkdocs.yml
+/site/generated/

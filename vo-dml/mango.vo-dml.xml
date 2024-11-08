@@ -13,22 +13,22 @@
   <lastModified>2024-10-17T16:22:43</lastModified>
   <import>
     <name>ivoa</name>
-    <url>http://www.ivoa.net/xml/VODML/IVOA-v1.vo-dml.xml</url>
+    <url>IVOA-v1.0.vo-dml.xml</url>
     <documentationURL>https://volute.g-vo.org/svn/trunk/projects/dm/vo-dml/models/ivoa/vo-dml/IVOA-v1.0.html</documentationURL>
   </import>
   <import>
     <name>meas</name>
-    <url>https://ivoa.net/xml/VODML/Meas-v1.vo-dml.xml</url>
+    <url>Meas-v1.0.vo-dml.xml</url>
     <documentationURL>https://ivoa.net/documents/Meas/20221004/index.html</documentationURL>
   </import>
   <import>
     <name>coords</name>
-    <url>https://ivoa.net/xml/VODML/Coords-v1.0.vo-dml.xml</url>
+    <url>Coords-v1.0.vo-dml.xml</url>
     <documentationURL>https://ivoa.net/documents/Coords/20221004/index.html</documentationURL>
   </import>
   <import>
     <name>Phot</name>
-    <url>https://ivoa.net/xml/VODML/Phot-v1.vodml.xml</url>
+    <url>Photv1-1.vo-dml.xml</url>
     <documentationURL>https://ivoa.net/documents/PHOTDM/20221101/index.html</documentationURL>
   </import>
   <enumeration>
